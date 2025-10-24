@@ -1,3 +1,6 @@
+
+
+
 body {
     background-color: rgba(70, 142,236);
     font: normal 15pt Arial;
@@ -8,14 +11,19 @@ header {
     text-align: center;
 }
 
-
 section {
    background-color: white;
-   border-radius: 10px;
+   border-radius: 15px;
    padding: 15px;
-   width: 500px;
+   width: 450px;
    margin: auto;
-   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.281); 
+   box-shadow: 5px 5px 10px #120e0b70; 
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+    
 }
 
 footer {
